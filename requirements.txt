@@ -1,0 +1,2 @@
+# Requires: circular-duration
+# (Not available on PyPI)
